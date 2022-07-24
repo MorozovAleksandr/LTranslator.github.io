@@ -1,2 +1,2 @@
-# LoveTranslator.github.io
+# LTranslator.github.io
 this is readme
